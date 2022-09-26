@@ -15,21 +15,13 @@
 -->
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
-
     <link rel="stylesheet" href="assets/css/templatemo-klassy-cafe.css">
-
     <link rel="stylesheet" href="assets/css/owl-carousel.css">
-
     <link rel="stylesheet" href="assets/css/lightbox.css">
-    
     <link rel="stylesheet" href="assets/css/success.css">
-
     </head>
-    
-    <body>
-    
+    <body> 
     <!-- ***** Preloader Start ***** -->
     <div id="preloader">
         <div class="jumper">
@@ -54,8 +46,7 @@
                         <!-- ***** MENU START ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#TOP" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="#ABOUT">ABOUT</a></li>
-                           	
+                            <li class="scroll-to-section"><a href="#ABOUT">ABOUT</a></li>                	
                         <!-- 
                             <li class="submenu">
                                 <a href="javascript:;">Drop Down</a>
@@ -159,13 +150,6 @@
                             <div class="col-4">
                                 <img src="assets/images/about-thumb-03.jpg" alt="">
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-xs-12">
-                    <div class="right-content">
-                        <div class="MAP">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3231.571593123856!2d73.8132925144289!3d18.515189937412135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfbce8e5302d%3A0x348086e71114c80a!2sCafe%20delight!5e1!3m2!1sen!2sth!4v1643983482998!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </div>
                     </div>
                 </div>
@@ -608,31 +592,31 @@
                                                 <div class="left-list">
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
-                                                            <img src="assets/images/tab-item-04.png" alt="">
-                                                            <h4>Eggs Omelette</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
-                                                            <div class="price">
-                                                                <h6>Rs 60</h6>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-12">
-                                                        <div class="tab-item">
                                                             <img src="assets/images/tab-item-05.png" alt="">
-                                                            <h4>Dollma Pire</h4>
+                                                            <h4>DOLLMA PIRE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 50</h6>
+                                                                <h6>Rs 49</h6>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
-                                                            <img src="assets/images/tab-item-06.png" alt="">
-                                                            <h4>Omelette & Cheese</h4>
+                                                        <img src="assets/images/tab-item-04.png" alt="">
+                                                            <h4>EGG OMELETTE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 70</h6>
+                                                                <h6>Rs 59</h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-12">
+                                                        <div class="tab-item">
+                                                           <img src="assets/images/tab-item-01.png" alt="">
+                                                            <h4>FRESH CHICKEN SALAD</h4>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
+                                                            <div class="price">
+                                                                <h6>Rs 149</h6>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -644,31 +628,31 @@
                                                 <div class="right-list">
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
-                                                            <img src="assets/images/tab-item-01.png" alt="">
-                                                            <h4>Fresh Chicken Salad</h4>
+                                                        <img src="assets/images/tab-item-06.png" alt="">
+                                                            <h4>OMELETTE & CHEESE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 150</h6>
+                                                                <h6>Rs 79</h6>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-02.png" alt="">
-                                                            <h4>Orange Juice</h4>
+                                                            <h4>ORANGE JUICE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 30</h6>
+                                                                <h6>Rs 29</h6>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-03.png" alt="">
-                                                            <h4>Fruit Salad</h4>
+                                                            <h4>FRUIT SALAD</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 60</h6>
+                                                                <h6>Rs 59</h6>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -685,30 +669,30 @@
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-05.png" alt="">
-                                                            <h4>Eggs Omelette</h4>
+                                                            <h4>EGG OMELETTE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 60</h6>
+                                                                <h6>Rs 49</h6>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-03.png" alt="">
-                                                            <h4>Orange Juice</h4>
+                                                            <h4>ORANGE JUICE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 30</h6>
+                                                                <h6>Rs 29</h6>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-02.png" alt="">
-                                                            <h4>Fruit Salad</h4>
+                                                            <h4>FRUIT SALAD</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 60</h6>
+                                                                <h6>Rs 69</h6>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -721,30 +705,30 @@
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-06.png" alt="">
-                                                            <h4>Fresh Chicken Salad</h4>
+                                                            <h4>FRESH CHICKEN SALAD</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 150</h6>
+                                                                <h6>Rs 159</h6>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-01.png" alt="">
-                                                            <h4>Dollma Pire</h4>
+                                                            <h4>DOLLMA PIRE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 50</h6>
+                                                                <h6>Rs 49</h6>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-12">
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-04.png" alt="">
-                                                            <h4>Omelette & Cheese</h4>
+                                                            <h4>OMELETTE & CHEESE</h4>
                                                             <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
-                                                                <h6>Rs 70</h6>
+                                                                <h6>Rs 69</h6>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -785,7 +769,7 @@
                     <div class="left-text-content">
                         <p>© Copyright Cafe Delight Co.
                         
-                        <br>Design: Prathmesh Joshi,Balraj Upadhyay and Virat Desale</p>
+                        <br>Design: MADHUSUDHAN PITCHUKA</p>
                     </div>
                 </div>
             </div>
